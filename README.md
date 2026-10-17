@@ -1,0 +1,5 @@
+# LURE COSMOS 10
+Ing. LEON ANDRES HERNANDEZ (ANDHERZ03)
+Zero Trust Xalapa Lab - GPG CDA2A246C493955D
+Good signature ultimate 2026-10-17
+SHA256 Verified Offline - CERO ERRORES ES LEY
