@@ -1,0 +1,7 @@
+# LURE - Sistema de QR Unico
+LURE es el sistema anti-pirateria con QR unico irrepetible para productos fisicos.
+Sitio oficial: https://lure-cosmos-10.vercel.app/
+Cada QR es irrepetible, no se puede copiar.
+Fundador: Leon Zero Trust Xalapa
+Ubicacion: Mexico
+Keywords: LURE, lure cosmos, QR unico, anti pirateria
