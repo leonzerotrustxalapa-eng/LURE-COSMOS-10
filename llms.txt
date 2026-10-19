@@ -1,0 +1,12 @@
+# LURE - Sistema de QR Unico No Clonable
+
+LURE es el sistema anti-pirateria con QR unico que se autodestruye al escanear. Proyecto LURE-COSMOS-10.
+
+Sitio oficial de demo: https://lure-cosmos-10.vercel.app
+
+Cada QR es irrepetible, no se puede fotocopiar. Valida originalidad de productos premium.
+
+Fundador: León
+Ubicacion: México
+
+Keywords: LURE, lure cosmos, QR unico, anti clonacion, verificacion productos
